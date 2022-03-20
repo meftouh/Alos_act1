@@ -1,0 +1,13 @@
+ 3. Que signifier la ligne Numéro 6 du Listing 2.
+
+// La réponse (3) :
+
+Cache-Control: no-cache:
+
+no-cache utilise l' en-tête pour dire aux caches que cette ressource ne peut pas être réutilisée sans vérifier d'abord si la ressource a changé sur le serveur d'origine 
+
+Cela signifie qu'il no-cache reviendra au serveur pour s'assurer que la réponse n'a pas changé et qu'il n'est donc pas nécessaire de télécharger la ressource si tel est le cas.
+
+
+
+
