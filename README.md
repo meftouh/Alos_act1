@@ -1,4 +1,7 @@
 # Alos_act1
+Compte rendu:
+
+
    Dans ce premier acte de création d'une api, il y a d'abord quelques exigences sous la forme d'installation
 de certains logiciels et bibliothèques ou packages sur nos machines, nous installons git et nous avons créé un
 fichier de dépôt local pour synchroniser et télécharger nos éléments sur un compte github déjà créé ,en
