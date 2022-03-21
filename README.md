@@ -8,4 +8,4 @@ avec également un serveur json et une bibliothèque unirest.ces 2 via une comma
 maintenant que les préparatifs sont terminés, nous procédons à l'obtention des données de test que l'api va gérer.il existe différentes façons d'obtenir les données,
 mais nous avons  choisi de générer des données fictives via des outils de génération de json en ligne.
 enfin,  nous avons créé un javascript fichier (index.js) et on a modifié Listing 2 en ajoutant ce qui était demandé dans exo 2 dépendant des 
-éventuellement (_limit) pour paginer les Les 10 premiers  données renvoyées et un fonction avec un filtrer  pour  un titre commence par la lettre M .
+éventuellement (_limit) pour paginer les Les 10 premiers  données renvoyées et un fonction avec un filtrer  pour  un titre commence par la lettre M et aussi selon ce qui était demandé dans exo 2 .
